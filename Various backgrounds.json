@@ -1,0 +1,15 @@
+{
+  category Sports,
+  wallpapers [
+    {
+      id 1,
+      title Tennis,
+      url httpscdn.pixabay.comphoto202304171031tennis-7932066_1280.jpg
+    },
+    {
+      id 2,
+      title Mountain Climber,
+      url httpscdn.pixabay.comphoto201706211320mountain-climber-2427191_1280.jpg
+    }
+  ]
+}
